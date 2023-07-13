@@ -1,69 +1,64 @@
-// Import our actions. Actions are in all caps.
-import {
-  ADD_STUDENT,
-  REMOVE_STUDENT,
-  UPDATE_STUDENT,
-  ADD_MAJOR,
-  REMOVE_MAJOR,
-} from './actions';
+import { ADD_CAR, START_CAR, STOP_CAR } from './actions';
 import createId from './createId';
 
-// Reducer accepts state and an action, returns a new state
-export default function reducer(state, action) {
+// Notice we moved the initial state object from our CarComponent to the reducer itself
+const initalState = {
+  cars: [
+    {
+      id: 1,
+      make: 'Honda',
+      model: 'Civic',
+      year: '2008',
+      isRunning: false,
+    },
+    {
+      id: 2,
+      make: 'Tesla',
+      model: 'Y',
+      year: '2021',
+      isRunning: false,
+    },
+  ],
+};
+
+// Here we pass a default value of initalState if none is provided
+export default function reducer(state = initalState, action) {
   switch (action.type) {
-    case ADD_STUDENT: {
-      const newStudentId = createId(state.students);
-
-      const newStudent = { ...action.payload, id: newStudentId };
-
-      return {
-        ...state,
-        students: [...state.students, newStudent],
-      };
-    }
-    case REMOVE_STUDENT: {
-      return {
-        ...state,
-        students: [...state.students].filter(
-          (student) => student.id !== action.payload
-        ),
-      };
-    }
-    case UPDATE_STUDENT: {
-      const studentIndex = state.students.findIndex(
-        (student) => student.id === action.payload.id
-      );
-
-      // Variable to hold our student object
-      const updatedStudent = {
-        ...state.students[studentIndex],
-        ...action.payload,
-      };
-
-      // Make a copy of our current students array
-      const newStudentsList = [...state.students];
-
-      // Assign the updated student to their existing position in the newStudentsList
-      newStudentsList[studentIndex] = updatedStudent;
+    case ADD_CAR: {
+      const newCarId = createId(state.cars);
+      const newCar = { ...action.payload, id: newCarId };
 
       return {
         ...state,
-        students: newStudentsList,
+        cars: [...state.cars, newCar],
       };
     }
-    case ADD_MAJOR: {
+    case START_CAR: {
+      const carIndex = state.cars.findIndex((car) => car.id === action.payload);
+      const updatedCar = { ...state.cars[carIndex], isRunning: true };
+
+      const carsCopy = [...state.cars];
+      carsCopy[carIndex] = updatedCar;
+
       return {
         ...state,
-        majors: [...state.majors, action.payload],
+        cars: carsCopy,
       };
     }
-    case REMOVE_MAJOR: {
+    case STOP_CAR: {
+      const carIndex = state.cars.findIndex((car) => car.id === action.payload);
+      const updatedCar = { ...state.cars[carIndex], isRunning: false };
+
+      const carsCopy = [...state.cars];
+      carsCopy[carIndex] = updatedCar;
+
       return {
         ...state,
-        majors: [...state.majors].filter((major) => major !== action.payload),
+        cars: carsCopy,
       };
     }
-    default:
+    default: {
       return state;
+    }
   }
 }
