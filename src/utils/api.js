@@ -1,14 +1,18 @@
 var https = require('follow-redirects').https;
 var fs = require('fs');
 
+require('dotenv').config();
+
+var apiKey = process.env.npsApiKey;
 var options = {
   'method': 'GET',
   'hostname': 'developer.nps.gov',
-  'path': '/api/v1/parks?api_key=misSYyujFYgC1IclzCFg115HRbwCZfMjn19VpbNJ', //change key to variable
+  'path': `/api/v1/parks?api_key=${apiKey}`,
   'headers': {
   },
   'maxRedirects': 20
 };
+console.log(options);
 
 var req = https.request(options, function (res) {
   var chunks = [];
