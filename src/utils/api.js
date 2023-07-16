@@ -3,6 +3,7 @@ var fs = require('fs');
 
 require('dotenv').config();
 
+window.apiResponse = null; // shit from chatGPT
 var apiKey = process.env.npsApiKey;
 var options = {
   'method': 'GET',
@@ -24,6 +25,7 @@ var req = https.request(options, function (res) {
   res.on("end", function (chunk) {
     var body = Buffer.concat(chunks);
     console.log(body.toString());
+    globalThis.apiResponse = JSON.parse(body.toString());
   });
 
   res.on("error", function (error) {
