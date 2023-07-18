@@ -56,12 +56,12 @@ THEN I need to get while the gettin's good
 
 3. `create-react-app` now automatically uses the latest release of React, version 18. Due to several conflicting packages with React version 18, follow the steps below to ensure that all activities work as intended.
 
-* Delete the `package-lock.json` file and `node_modules` folder from directory.
-* While you're at it, delete the `README.md` file and the `src` folder from the directory
-* Downgrade `react` to 17.0.2 inside of the `package.json` file.
-* Downgrade `react-dom` to 17.0.2 inside of the `package.json` file.
-* Downgrade `@testing-library/react` to ^11.1.0 inside of the `package.json` file.
-* Also downgrade `@testing-library/jest-dom` to ^5.16.4 (I guess?)
+* Remove the `package-lock.json` file and the `node_modules` folder from the directory.
+* In addition, delete the `README.md` file and the `src` folder from the directory.
+* Modify the `package.json` file to downgrade `react` to version 17.0.2.
+* Update the `package.json` file to lower the version of `react-dom` to 17.0.2.
+* Adjust the `package.json` file to downgrade `@testing-library/react` to version ^11.1.0.
+* Likewise, downgrade `@testing-library/jest-dom` to version ^5.16.4.
 * Your `package.json` file should look like the following:
 
         ```js
