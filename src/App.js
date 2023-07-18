@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+//import React, { useEffect } from 'react';
+//import CarComponent from './components/CarComponent';
+// Importing our theme provider which will make our global state available to child components
+//import CarProvider from './utils/CarContext';
+=======
 import React, { useEffect } from 'react';
 import {
   ApolloClient,
@@ -37,16 +43,40 @@ const client = new ApolloClient({
   //),
   cache: new InMemoryCache(),
 });
+>>>>>>> 976e02da77e08b6f7da198530576c697c25e0c68
 
-export default function App() {
-  useEffect(() => {
-    document.title = 'Digital Garage';
-  }, []);
+//export default function App() {
+ // useEffect(() => {
+ //   document.title = 'Travel App';
+  //}, []);
 
+<<<<<<< HEAD
+ // return (
+    //<CarProvider>
+   //   <CarComponent />
+   // </CarProvider>
+ // );
+//}
+import ChooseParks from "./utils/ChooseParks";
+
+function App()
+{
+  return(
+    <main>
+      <header>
+        <div>National Parks App</div>
+        <a href="">Login</a>
+      </header>
+      <ChooseParks></ChooseParks>
+    </main>
+=======
   return (
     <ApolloProvider client={client}>
 
       <CarComponent />
     </ApolloProvider>
+>>>>>>> 976e02da77e08b6f7da198530576c697c25e0c68
   );
 }
+
+export default App;

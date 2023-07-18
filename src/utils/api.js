@@ -20,12 +20,35 @@ var options = {
 };
 console.log(options);
 
+<<<<<<< HEAD
+var req = https.request(options, function (res) {
+  var chunks = [];
+
+  res.on("data", function (chunk) {
+    chunks.push(chunk);
+  });
+
+  res.on("end", function (chunk) {
+    var body = Buffer.concat(chunks);
+    //console.log(body.toString());
+    //var name = chunks("fullName");
+    let state = req.query.state;
+    console.log(toString(state));
+    
+    
+  });
+
+  res.on("error", function (error) {
+    console.error(error);
+  });
+=======
 const makeRequest = () => {
 //   client.get('?_limit=10').then((response) => {
 //     setPosts(response.data);
 //  });
 client.get(`/api/v1/parks?api_key=${apiKey}`).then((response) => {
 return response.data
+>>>>>>> 976e02da77e08b6f7da198530576c697c25e0c68
 });
 }
 
