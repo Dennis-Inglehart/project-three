@@ -59,13 +59,12 @@ function App()
         <nav>
         <a href="/Login">Login</a>
         <a href="/Register">Signup</a>
-        <a href="">Profile</a>
+        <a href="/Profile">Profile</a>
         </nav>
       </header>
       <div id="chooseParks">
       <ChooseParks></ChooseParks>
       </div>
-      <Profile></Profile>
     </main>} />
 
     <Route path="/Login" element={
@@ -75,6 +74,10 @@ function App()
     <Route path="/Register" element={
       <Register></Register>
     } />
+
+    <Route path="/Profile" element={
+    <Profile></Profile>
+    }/>
     </Routes>
   );
 }
