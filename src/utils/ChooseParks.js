@@ -2,8 +2,8 @@ export default function ChooseParks()
 {
   return(
 <div class="dropdown">
-<div id="stateDropdown" class="dropdown-content">
 <button onclick="dropDownFunction()" class="dropbtn">Choose State</button>
+<div id="myDropdown" class="dropdown-content">
     <a id="#">Alabama</a>
     <a id="#">Alaska</a>
     <a id="#">Arizona</a>
