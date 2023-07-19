@@ -40,12 +40,9 @@
  // );
 //}
 import ChooseParks from "./utils/ChooseParks";
-<<<<<<< HEAD
 import Login from "./utils/Login";
 import Profile from "./utils/Profile";
 import Register from "./utils/Register";
-=======
->>>>>>> c4c399ae8d4c2a39ec17f0df46e51e0f31c927bd
 import "./app.css";
 
 
@@ -58,11 +55,8 @@ function App()
       <header>
         <div id='header'>National Parks App</div>
         <nav>
-<<<<<<< HEAD
-=======
         <a href="">Login</a>
         <a href="">signup</a>
->>>>>>> c4c399ae8d4c2a39ec17f0df46e51e0f31c927bd
         </nav>
       </header>
       <ChooseParks></ChooseParks>
