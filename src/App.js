@@ -40,6 +40,9 @@
  // );
 //}
 import ChooseParks from "./utils/ChooseParks";
+import Login from "./utils/Login";
+import Profile from "./utils/Profile";
+import Register from "./utils/Register";
 import "./app.css";
 
 
@@ -57,6 +60,9 @@ function App()
         </nav>
       </header>
       <ChooseParks></ChooseParks>
+      <Login></Login>
+      <Profile></Profile>
+      <Register></Register>
     </main>
   );
 }
