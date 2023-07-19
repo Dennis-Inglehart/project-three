@@ -40,8 +40,25 @@ nav {
   display: flex;
   flex-direction: column; /* Adjust the flex direction to stack items */
   align-items: center; /* Center items horizontally */
-  justify-content: center; /* Center items vertically */
+  justify-content: flex-start; /* Align items to the top */
   height: calc(100vh - 80px); /* Adjust for header height */
+}
+
+/* New CSS for the input container and the input elements */
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; /* Allow input elements to wrap if container width is limited */
+}
+
+.register input {
+  width: 300px; /* Adjust the width to your preference */
+  max-width: 100%; /* Ensure the input doesn't exceed the container width */
+  border: 1px solid brown;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
 }
 
 .register-form {
@@ -60,29 +77,26 @@ nav {
   border-radius: 5px;
   padding: 10px;
   margin: 5px;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Add box shadow for a pop effect */
-  transition: box-shadow 0.3s ease; /* Add transition effect to smooth the pop effect */
 }
 
-.register input:focus {
-  outline: none; /* Remove default focus outline */
-  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); /* Enhance box shadow when focused */
-}
-
-.register button {
+/* Adjust the styles for the register button here */
+.register-button {
   background-color: brown;
   color: wheat;
+  font-size: 150%;
+  text-align: center;
+  margin-left: 43%;
+  margin-top: 1%;
   border: none;
   border-radius: 5px;
   padding: 10px 20px;
   cursor: pointer;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Add box shadow for a pop effect */
-  transition: box-shadow 0.3s ease; /* Add transition effect to smooth the pop effect */
+  font-weight: bold;
+  transition: background-color 0.3s ease;
 }
 
-.register button:hover {
-  /* Enhance box shadow on hover */
-  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+.register-button:hover {
+  background-color: #7d502d;
 }
 
 /* Additional styles for the link */
