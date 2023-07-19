@@ -45,6 +45,7 @@ import Profile from "./utils/Profile";
 import Register from "./utils/Register";
 import "./app.css";
 import {Route, Routes} from "react-router-dom";
+import {Link} from "react-router-dom";
 
 
 
@@ -57,9 +58,9 @@ function App()
       <header>
         <div id='header'>National Parks App</div>
         <nav>
-        <a href="/Login">Login</a>
-        <a href="/Register">Signup</a>
-        <a href="/Profile">Profile</a>
+        <Link to="/Login">Login</Link>
+        <Link to="/Register">Signup</Link>
+        <Link to="/Profile">Profile</Link>
         </nav>
       </header>
       <div id="chooseParks">

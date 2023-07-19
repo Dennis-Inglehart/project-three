@@ -1,7 +1,7 @@
 export default function ChooseParks()
 {  
   return(
-    <select name="Choose a State" id="ChooseStateDropDown" style={{color: "wheat", backgroundColor: "brown", fontSize: "150%", textAlign: "center", marginLeft: "45%", marginTop: "1%" }}>
+    <select name="Choose a State" id="ChooseStateDropDown" style={{color: "wheat", backgroundColor: "brown", fontSize: "150%", textAlign: "center", marginLeft: "43%", marginTop: "1%" }}>
     <option value="Alabama">Alabama</option>
     <option value="Alaska">Alaska</option>
     <option value="Arizona">Arizona</option>
