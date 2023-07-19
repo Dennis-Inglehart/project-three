@@ -1,61 +1,60 @@
 export default function ChooseParks()
-{
+{  
   return(
-<div class="dropdown">
-<button onclick="dropDownFunction()" class="dropbtn">Choose State</button>
-<div id="myDropdown" class="dropdown-content">
-    <a id="#">Alabama</a>
-    <a id="#">Alaska</a>
-    <a id="#">Arizona</a>
-    <a id='#'>Arkansas</a>
-    <a id='#'>California</a>
-    <a id='#'>Colorado</a>
-    <a id='#'>Connecticut</a>
-    <a id='#'>Delaware</a>
-    <a id='#'>Florida</a>
-    <a id='#'>Georgia</a>
-    <a id='#'>Hawaii</a>
-    <a id='#'>Idaho</a>
-    <a id='#'>Illinois</a>
-    <a id='#'>Indiana</a>
-    <a id='#'>Iowa</a>
-    <a id='#'>Kansas</a>
-    <a id='#'>Kentucky</a>
-    <a id='#'>Louisiana</a>
-    <a id='#'>Maine</a>
-    <a id='#'>Maryland</a>
-    <a id='#'>Massachusetts</a>
-    <a id='#'>Michigan!</a>
-    <a id='#'>Minnesota</a>
-    <a id='#'>Mississippi</a>
-    <a id='#'>Missouri</a>
-    <a id='#'>Montana</a>
-    <a id='#'>Nebraska</a>
-    <a id='#'>Nevada</a>
-    <a id='#'>New Hampshire</a>
-    <a id='#'>New Jersey</a>
-    <a id='#'>New Mexico</a>
-    <a id='#'>New York</a>
-    <a id='#'>North Carolina</a>
-    <a id='#'>North Dakota</a>
-    <a id='#'>Ohio</a>
-    <a id='#'>Oklahoma</a>
-    <a id='#'>Oregon</a>
-    <a id='#'>Pennsylvania</a>
-    <a id='#'>Rhode Island</a>
-    <a id='#'>South Carolina</a>
-    <a id='#'>South Dakota</a>
-    <a id='#'>Tennessee</a>
-    <a id='#'>Texas</a>
-    <a id='#'>Utah</a>
-    <a id='#'>Vermont</a>
-    <a id='#'>Virginia</a>
-    <a id='#'>Washington</a>
-    <a id='#'>West Virginia</a>
-    <a id='#'>Wisconsin</a>
-    <a id='#'>Wyoming</a>
-  </div>
-</div>
+    <select name="Choose a State" id="ChooseStateDropDown" style={{color: "wheat", backgroundColor: "brown", fontSize: "150%", textAlign: "center", marginLeft: "45%", marginTop: "1%" }}>
+    <option value="Alabama">Alabama</option>
+    <option value="Alaska">Alaska</option>
+    <option value="Arizona">Arizona</option>
+    <option value="Arkansas">Arkansas</option>
+    <option value="California">California</option>
+    <option value="Colorado">Colorado</option>
+    <option value="Connecticut">Connecticut</option>
+    <option value="Delaware">Delaware</option>
+    <option value="Florida">Florida</option>
+    <option value="Georgia">Georgia</option>
+    <option value="Hawaii">Hawaii</option>
+    <option value="Idaho">Idaho</option>
+    <option value="Illinois">Illinois</option>
+    <option value="Indiana">Indiana</option>
+    <option value="Iowa">Iowa</option>
+    <option value="Kansas">Kansas</option>
+    <option value="Kentucky">Kentucky</option>
+    <option value="Louisiana">Louisiana</option>
+    <option value="Maine">Maine</option>
+    <option value="Maryland">Maryland</option>
+    <option value="Massachusetts">Massachusetts</option>
+    <option value="Michigan">Michigan</option>
+    <option value="Minnesota">Minnesota</option>
+    <option value="Mississippi">Mississippi</option>
+    <option value="Missouri">Missouri</option>
+    <option value="Montana">Montana</option>
+    <option value="Nebraska">Nebraska</option>
+    <option value="Nevada">Nevada</option>
+    <option value="New Hampshire">New Hampshire</option>
+    <option value="New Jersey">New Jersey</option>
+    <option value="New Mexico">New Mexico</option>
+    <option value="New York">New York</option>
+    <option value="North Carolina">North Carolina</option>
+    <option value="North Dakota">North Dakota</option>
+    <option value="Ohio">Ohio</option>
+    <option value="Oklahoma">Oklahoma</option>
+    <option value="Oregon">Oregon</option>
+    <option value="Pennsylvania">Pennsylvania</option>
+    <option value="Rhode Island">Rhode Island</option>
+    <option value="South Carolina">South Carolina</option>
+    <option value="South Dakota">South Dakota</option>
+    <option value="Tennessee">Tennessee</option>
+    <option value="Texas">Texas</option>
+    <option value="Utah">Utah</option>
+    <option value="Vermont">Vermont</option>
+    <option value="Virginia">Virginia</option>
+    <option value="Washington">Washington</option>
+    <option value="West Virginia">West Virginia</option>
+    <option value="Wisconsin">Wisconsin</option>
+    <option value="Wyoming">Wyoming</option>
+    </select>
+
+
   );
 }
 

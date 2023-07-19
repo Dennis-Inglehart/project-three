@@ -59,7 +59,9 @@ function App()
         <a href="">signup</a>
         </nav>
       </header>
+      <div id="chooseParks">
       <ChooseParks></ChooseParks>
+      </div>
       <Login></Login>
       <Profile></Profile>
       <Register></Register>
