@@ -1,6 +1,11 @@
 export default function Login()
 {
   return(
-console.log("login function")
+  <form action="">
+    <input type="text" placeholder="Enter Username"></input>
+    <input type="password" placeholder="Enter Password"></input>
+    <button>Login</button>
+
+  </form>
   );
 }

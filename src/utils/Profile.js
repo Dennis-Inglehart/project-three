@@ -1,6 +1,6 @@
 export default function Profile()
 {
   return(
-console.log("profile function")
+<p>Profile Page is here</p>
   );
 }
