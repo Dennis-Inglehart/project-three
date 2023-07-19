@@ -57,7 +57,7 @@ function App()
       <header>
         <div id='header'>National Parks App</div>
         <nav>
-        <a href="">Login</a>
+        <a href="/Login">Login</a>
         <a href="">Signup</a>
         <a href="">Profile</a>
         </nav>
@@ -69,6 +69,10 @@ function App()
       <Profile></Profile>
       <Register></Register>
     </main>} />
+
+    <Route path="/Login" element={
+      <Login></Login>
+    } />
     </Routes>
   );
 }
