@@ -44,6 +44,7 @@ import Login from "./utils/Login";
 import Profile from "./utils/Profile";
 import Register from "./utils/Register";
 import "./app.css";
+import {Route, Routes} from "react-router-dom";
 
 
 
@@ -51,12 +52,14 @@ import "./app.css";
 function App()
 {
   return(
-    <main>
+    <Routes>
+      <Route index element={<main>
       <header>
         <div id='header'>National Parks App</div>
         <nav>
         <a href="">Login</a>
-        <a href="">signup</a>
+        <a href="">Signup</a>
+        <a href="">Profile</a>
         </nav>
       </header>
       <div id="chooseParks">
@@ -65,7 +68,8 @@ function App()
       <Login></Login>
       <Profile></Profile>
       <Register></Register>
-    </main>
+    </main>} />
+    </Routes>
   );
 }
 
