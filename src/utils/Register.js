@@ -27,6 +27,11 @@ catch(err)
         <input type="text" placeholder="Enter Username" value={userName} onChange={ev => setUserName(ev.target.value)}></input>
         <input type="password" placeholder="Enter Password" value={password} onChange={ev =>setPassword(ev.target.value)}></input>
         <button>Register</button>
+
+        </form>
+        );
+}
+
     
 // import { Link } from "react-router-dom";
 
