@@ -1,0 +1,1402 @@
+{
+    "Alabama": [
+        {
+          "name": "Gulf State Park",
+          "location": "Alabama",
+          "activities": ["hiking", "camping", "swimming", "fishing"]
+        },
+        {
+          "name": "Oak Mountain State Park",
+          "location": "Alabama",
+          "activities": ["hiking", "biking", "fishing", "golfing"]
+        },
+        {
+          "name": "Cheaha State Park",
+          "location": "Alabama",
+          "activities": ["hiking", "rock climbing", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "DeSoto State Park",
+          "location": "Alabama",
+          "activities": ["hiking", "waterfalls", "cycling", "camping"]
+        },
+        {
+          "name": "Lake Guntersville State Park",
+          "location": "Alabama",
+          "activities": ["boating", "fishing", "hiking", "golfing"]
+        }
+      ],
+
+    "Alaska": [
+        {
+          "name": "Denali National Park",
+          "location": "Alaska",
+          "activities": ["hiking", "camping", "wildlife viewing", "mountaineering"]
+        },
+        {
+          "name": "Kenai Fjords National Park",
+          "location": "Alaska",
+          "activities": ["hiking", "glacier viewing", "kayaking", "wildlife cruises"]
+        },
+        {
+          "name": "Wrangell-St. Elias National Park",
+          "location": "Alaska",
+          "activities": ["backpacking", "rafting", "flightseeing", "fishing"]
+        },
+        {
+          "name": "Chugach State Park",
+          "location": "Alaska",
+          "activities": ["hiking", "biking", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "Kachemak Bay State Park",
+          "location": "Alaska",
+          "activities": ["hiking", "kayaking", "camping", "beachcombing"]
+        }
+      ],
+    
+    "Arizona": [
+        {
+          "name": "Grand Canyon National Park",
+          "location": "Arizona",
+          "activities": ["hiking", "camping", "rafting", "sightseeing"]
+        },
+        {
+          "name": "Saguaro National Park",
+          "location": "Arizona",
+          "activities": ["hiking", "picnicking", "wildlife watching", "cactus viewing"]
+        },
+        {
+          "name": "Antelope Canyon",
+          "location": "Arizona",
+          "activities": ["guided tours", "photography", "sightseeing"]
+        },
+        {
+          "name": "Havasu Falls",
+          "location": "Arizona",
+          "activities": ["hiking", "swimming", "waterfalls", "camping"]
+        },
+        {
+          "name": "Slide Rock State Park",
+          "location": "Arizona",
+          "activities": ["swimming", "picnicking", "natural water slide", "hiking"]
+        }
+      ],
+    
+    "Arkansas": [
+        {
+          "name": "Hot Springs National Park",
+          "location": "Arkansas",
+          "activities": ["hiking", "bathing in hot springs", "picnicking", "birdwatching"]
+        },
+        {
+          "name": "Buffalo National River",
+          "location": "Arkansas",
+          "activities": ["canoeing", "camping", "hiking", "wildlife viewing"]
+        },
+        {
+          "name": "Devil's Den State Park",
+          "location": "Arkansas",
+          "activities": ["hiking", "mountain biking", "cave exploring", "picnicking"]
+        },
+        {
+          "name": "Petit Jean State Park",
+          "location": "Arkansas",
+          "activities": ["hiking", "waterfalls", "rock climbing", "cave tours"]
+        },
+        {
+          "name": "Mount Magazine State Park",
+          "location": "Arkansas",
+          "activities": ["hiking", "hang gliding", "rock climbing", "camping"]
+        }
+      ],
+
+    "California": [
+        {
+          "name": "Yosemite National Park",
+          "location": "California",
+          "activities": ["hiking", "camping", "rock climbing", "waterfalls"]
+        },
+        {
+          "name": "Sequoia and Kings Canyon National Parks",
+          "location": "California",
+          "activities": ["hiking", "cave tours", "giant sequoia viewing", "backpacking"]
+        },
+        {
+          "name": "Joshua Tree National Park",
+          "location": "California",
+          "activities": ["hiking", "rock climbing", "stargazing", "camping"]
+        },
+        {
+          "name": "Big Sur",
+          "location": "California",
+          "activities": ["hiking", "scenic drives", "beachcombing", "wildlife viewing"]
+        },
+        {
+          "name": "Angeles National Forest",
+          "location": "California",
+          "activities": ["hiking", "fishing", "picnicking", "mountain biking"]
+        }
+      ],
+
+    "Colorado": [
+        {
+          "name": "Rocky Mountain National Park",
+          "location": "Colorado",
+          "activities": ["hiking", "camping", "wildlife viewing", "scenic drives"]
+        },
+        {
+          "name": "Mesa Verde National Park",
+          "location": "Colorado",
+          "activities": ["archaeological tours", "hiking", "camping", "stargazing"]
+        },
+        {
+          "name": "Great Sand Dunes National Park",
+          "location": "Colorado",
+          "activities": ["sandboarding", "hiking", "camping", "photography"]
+        },
+        {
+          "name": "Garden of the Gods",
+          "location": "Colorado",
+          "activities": ["hiking", "rock climbing", "photography", "picnicking"]
+        },
+        {
+          "name": "Black Canyon of the Gunnison National Park",
+          "location": "Colorado",
+          "activities": ["hiking", "scenic drives", "fishing", "wildlife viewing"]
+        }
+      ],
+      
+    "Connecticut": [
+        {
+          "name": "Gillette Castle State Park",
+          "location": "Connecticut",
+          "activities": ["hiking", "picnicking", "castle tours", "scenic views"]
+        },
+        {
+          "name": "Hammonasset Beach State Park",
+          "location": "Connecticut",
+          "activities": ["swimming", "beachcombing", "picnicking", "birdwatching"]
+        },
+        {
+          "name": "Kent Falls State Park",
+          "location": "Connecticut",
+          "activities": ["hiking", "waterfalls", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "Sleeping Giant State Park",
+          "location": "Connecticut",
+          "activities": ["hiking", "rock climbing", "picnicking", "scenic views"]
+        },
+        {
+          "name": "Dinosaur State Park",
+          "location": "Connecticut",
+          "activities": ["fossil exploration", "nature trails", "exhibits", "picnicking"]
+        }
+      ],
+
+    "Delaware": [
+        {
+          "name": "Cape Henlopen State Park",
+          "location": "Delaware",
+          "activities": ["swimming", "hiking", "birdwatching", "biking"]
+        },
+        {
+          "name": "Brandywine Creek State Park",
+          "location": "Delaware",
+          "activities": ["hiking", "picnicking", "fishing", "nature programs"]
+        },
+        {
+          "name": "Killens Pond State Park",
+          "location": "Delaware",
+          "activities": ["boating", "fishing", "hiking", "camping"]
+        },
+        {
+          "name": "White Clay Creek State Park",
+          "location": "Delaware",
+          "activities": ["hiking", "biking", "horseback riding", "picnicking"]
+        },
+        {
+          "name": "Lums Pond State Park",
+          "location": "Delaware",
+          "activities": ["fishing", "boating", "hiking", "camping"]
+        }
+      ],
+
+    "Florida": [
+        {
+          "name": "Everglades National Park",
+          "location": "Florida",
+          "activities": ["airboat tours", "birdwatching", "hiking", "wildlife viewing"]
+        },
+        {
+          "name": "Dry Tortugas National Park",
+          "location": "Florida",
+          "activities": ["snorkeling", "diving", "birdwatching", "fort tours"]
+        },
+        {
+          "name": "Big Cypress National Preserve",
+          "location": "Florida",
+          "activities": ["swamp walks", "wildlife viewing", "fishing", "camping"]
+        },
+        {
+          "name": "Florida Caverns State Park",
+          "location": "Florida",
+          "activities": ["cave tours", "picnicking", "hiking", "biking"]
+        },
+        {
+          "name": "John Pennekamp Coral Reef State Park",
+          "location": "Florida",
+          "activities": ["snorkeling", "diving", "glass-bottom boat tours", "kayaking"]
+        }
+      ],
+
+    "Georgia": [
+        {
+          "name": "Amicalola Falls State Park",
+          "location": "Georgia",
+          "activities": ["hiking", "waterfalls", "camping", "picnicking"]
+        },
+        {
+          "name": "Tallulah Gorge State Park",
+          "location": "Georgia",
+          "activities": ["hiking", "canyon overlooks", "rock climbing", "swimming"]
+        },
+        {
+          "name": "Savannah-Ogeechee Canal Museum and Nature Center",
+          "location": "Georgia",
+          "activities": ["nature walks", "wildlife viewing", "canoeing", "historical exhibits"]
+        },
+        {
+          "name": "Red Top Mountain State Park",
+          "location": "Georgia",
+          "activities": ["boating", "fishing", "hiking", "camping"]
+        },
+        {
+          "name": "Cloudland Canyon State Park",
+          "location": "Georgia",
+          "activities": ["hiking", "canyon overlooks", "camping", "picnicking"]
+        }
+      ],
+
+    "Hawaii": [
+        {
+          "name": "Haleakalā National Park",
+          "location": "Hawaii",
+          "activities": ["hiking", "watching sunrise", "stargazing", "wildlife viewing"]
+        },
+        {
+          "name": "Hawaiʻi Volcanoes National Park",
+          "location": "Hawaii",
+          "activities": ["hiking", "visiting active volcanoes", "lava tube tours", "cultural programs"]
+        },
+        {
+          "name": "Waimea Canyon State Park",
+          "location": "Hawaii",
+          "activities": ["hiking", "scenic drives", "picnicking", "waterfalls"]
+        },
+        {
+          "name": "Akaka Falls State Park",
+          "location": "Hawaii",
+          "activities": ["hiking", "waterfall views", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "Pu'uhonua o Hōnaunau National Historical Park",
+          "location": "Hawaii",
+          "activities": ["cultural site visit", "snorkeling", "picnicking", "hiking"]
+        }
+      ],
+       
+    "Idaho": [
+        {
+          "name": "Yellowstone National Park",
+          "location": "Idaho",
+          "activities": ["hiking", "camping", "fishing", "geysers"]
+        },
+        {
+          "name": "Craters of the Moon National Monument",
+          "location": "Idaho",
+          "activities": ["cave exploring", "scenic drives", "wildlife viewing", "hiking"]
+        },
+        {
+          "name": "Shoshone Falls",
+          "location": "Idaho",
+          "activities": ["scenic views", "picnicking", "fishing", "swimming"]
+        },
+        {
+          "name": "Hells Canyon National Recreation Area",
+          "location": "Idaho",
+          "activities": ["rafting", "fishing", "hiking", "scenic drives"]
+        },
+        {
+          "name": "Sawtooth National Recreation Area",
+          "location": "Idaho",
+          "activities": ["hiking", "camping", "fishing", "backpacking"]
+        }
+      ],
+       
+    "Illinois": [
+        {
+          "name": "Starved Rock State Park",
+          "location": "Illinois",
+          "activities": ["hiking", "waterfalls", "canyon views", "picnicking"]
+        },
+        {
+          "name": "Shawnee National Forest",
+          "location": "Illinois",
+          "activities": ["hiking", "camping", "horseback riding", "scenic drives"]
+        },
+        {
+          "name": "Giant City State Park",
+          "location": "Illinois",
+          "activities": ["rock climbing", "hiking", "picnicking", "cave exploring"]
+        },
+        {
+          "name": "Matthiessen State Park",
+          "location": "Illinois",
+          "activities": ["hiking", "waterfalls", "canyon views", "picnicking"]
+        },
+        {
+          "name": "Illinois Beach State Park",
+          "location": "Illinois",
+          "activities": ["beachcombing", "hiking", "picnicking", "fishing"]
+        }
+      ],
+
+    "Indiana": [
+        {
+          "name": "Brown County State Park",
+          "location": "Indiana",
+          "activities": ["hiking", "camping", "horseback riding", "picnicking"]
+        },
+        {
+          "name": "Indiana Dunes State Park",
+          "location": "Indiana",
+          "activities": ["beachcombing", "hiking", "picnicking", "birdwatching"]
+        },
+        {
+          "name": "Turkey Run State Park",
+          "location": "Indiana",
+          "activities": ["hiking", "canyon views", "picnicking", "rock scrambling"]
+        },
+        {
+          "name": "Pokagon State Park",
+          "location": "Indiana",
+          "activities": ["sledding", "ice skating", "hiking", "fishing"]
+        },
+        {
+          "name": "Clifty Falls State Park",
+          "location": "Indiana",
+          "activities": ["hiking", "waterfalls", "picnicking", "cave exploring"]
+        }
+      ],
+      
+    "Iowa": [
+        {
+          "name": "Pikes Peak State Park",
+          "location": "Iowa",
+          "activities": ["hiking", "scenic views", "picnicking", "birdwatching"]
+        },
+        {
+          "name": "Maquoketa Caves State Park",
+          "location": "Iowa",
+          "activities": ["cave exploring", "hiking", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "Ledges State Park",
+          "location": "Iowa",
+          "activities": ["hiking", "climbing", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "Yellow River State Forest",
+          "location": "Iowa",
+          "activities": ["hiking", "horseback riding", "camping", "fishing"]
+        },
+        {
+          "name": "Dolliver Memorial State Park",
+          "location": "Iowa",
+          "activities": ["hiking", "fishing", "picnicking", "scenic views"]
+        }
+      ],
+        
+    "Kansas": [
+        {
+          "name": "Tuttle Creek State Park",
+          "location": "Kansas",
+          "activities": ["boating", "fishing", "hiking", "camping"]
+        },
+        {
+          "name": "Kanopolis State Park",
+          "location": "Kansas",
+          "activities": ["boating", "fishing", "hiking", "camping"]
+        },
+        {
+          "name": "Cedar Bluff State Park",
+          "location": "Kansas",
+          "activities": ["boating", "fishing", "hiking", "camping"]
+        },
+        {
+          "name": "Prairie Dog State Park",
+          "location": "Kansas",
+          "activities": ["boating", "fishing", "hiking", "camping"]
+        },
+        {
+          "name": "El Dorado State Park",
+          "location": "Kansas",
+          "activities": ["boating", "fishing", "hiking", "camping"]
+        }
+      ],
+        
+    "Kentucky": [
+        {
+          "name": "Natural Bridge State Resort Park",
+          "location": "Kentucky",
+          "activities": ["hiking", "scenic views", "rock climbing", "picnicking"]
+        },
+        {
+          "name": "Cumberland Falls State Resort Park",
+          "location": "Kentucky",
+          "activities": ["hiking", "waterfall views", "birdwatching", "picnicking"]
+        },
+        {
+          "name": "Red River Gorge Geological Area",
+          "location": "Kentucky",
+          "activities": ["hiking", "rock climbing", "cave exploring", "camping"]
+        },
+        {
+          "name": "Mammoth Cave National Park",
+          "location": "Kentucky",
+          "activities": ["cave tours", "hiking", "wildlife viewing", "picnicking"]
+        },
+        {
+          "name": "Land Between the Lakes National Recreation Area",
+          "location": "Kentucky",
+          "activities": ["boating", "fishing", "hiking", "camping"]
+        }
+      ],
+
+    "Louisiana": [
+        {
+          "name": "Fontainebleau State Park",
+          "location": "Louisiana",
+          "activities": ["hiking", "picnicking", "birdwatching", "camping"]
+        },
+        {
+          "name": "Chicot State Park",
+          "location": "Louisiana",
+          "activities": ["hiking", "fishing", "boating", "camping"]
+        },
+        {
+          "name": "Bayou Segnette State Park",
+          "location": "Louisiana",
+          "activities": ["hiking", "fishing", "birdwatching", "picnicking"]
+        },
+        {
+          "name": "Cypremort Point State Park",
+          "location": "Louisiana",
+          "activities": ["fishing", "boating", "picnicking", "beachcombing"]
+        },
+        {
+          "name": "Lake Claiborne State Park",
+          "location": "Louisiana",
+          "activities": ["boating", "fishing", "hiking", "picnicking"]
+        }
+      ],
+
+    "Maine": [
+        {
+          "name": "Acadia National Park",
+          "location": "Maine",
+          "activities": ["hiking", "scenic views", "biking", "wildlife viewing"]
+        },
+        {
+          "name": "Baxter State Park",
+          "location": "Maine",
+          "activities": ["hiking", "wildlife viewing", "camping", "fishing"]
+        },
+        {
+          "name": "Camden Hills State Park",
+          "location": "Maine",
+          "activities": ["hiking", "scenic views", "picnicking", "camping"]
+        },
+        {
+          "name": "Grafton Notch State Park",
+          "location": "Maine",
+          "activities": ["hiking", "waterfalls", "scenic views", "wildlife viewing"]
+        },
+        {
+          "name": "Moosehead Lake",
+          "location": "Maine",
+          "activities": ["boating", "fishing", "hiking", "camping"]
+        }
+      ],
+      
+    "Maryland": [
+        {
+          "name": "Assateague State Park",
+          "location": "Maryland",
+          "activities": ["beachcombing", "birdwatching", "fishing", "camping"]
+        },
+        {
+          "name": "Patapsco Valley State Park",
+          "location": "Maryland",
+          "activities": ["hiking", "biking", "picnicking", "fishing"]
+        },
+        {
+          "name": "Cunningham Falls State Park",
+          "location": "Maryland",
+          "activities": ["hiking", "waterfalls", "swimming", "picnicking"]
+        },
+        {
+          "name": "Swallow Falls State Park",
+          "location": "Maryland",
+          "activities": ["hiking", "waterfalls", "picnicking", "camping"]
+        },
+        {
+          "name": "Rocky Gap State Park",
+          "location": "Maryland",
+          "activities": ["boating", "fishing", "hiking", "golfing"]
+        }
+      ],
+      
+    "Massachusetts": [
+        {
+          "name": "Cape Cod National Seashore",
+          "location": "Massachusetts",
+          "activities": ["beachcombing", "hiking", "birdwatching", "swimming"]
+        },
+        {
+          "name": "Mount Greylock State Reservation",
+          "location": "Massachusetts",
+          "activities": ["hiking", "scenic views", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "Purgatory Chasm State Reservation",
+          "location": "Massachusetts",
+          "activities": ["hiking", "rock climbing", "picnicking", "exploring chasms"]
+        },
+        {
+          "name": "Wachusett Mountain State Reservation",
+          "location": "Massachusetts",
+          "activities": ["hiking", "skiing", "birdwatching", "picnicking"]
+        },
+        {
+          "name": "Nickerson State Park",
+          "location": "Massachusetts",
+          "activities": ["hiking", "biking", "swimming", "fishing"]
+        }
+      ],      
+      
+    "Michigan": [
+        {
+          "name": "Isle Royale National Park",
+          "location": "Michigan",
+          "activities": ["hiking", "backpacking", "wildlife viewing", "kayaking"]
+        },
+        {
+          "name": "Sleeping Bear Dunes National Lakeshore",
+          "location": "Michigan",
+          "activities": ["hiking", "swimming", "dune climbing", "camping"]
+        },
+        {
+          "name": "Pictured Rocks National Lakeshore",
+          "location": "Michigan",
+          "activities": ["hiking", "kayaking", "cliff jumping", "camping"]
+        },
+        {
+          "name": "Tahquamenon Falls State Park",
+          "location": "Michigan",
+          "activities": ["hiking", "fishing", "paddling", "camping"]
+        },
+        {
+          "name": "Holland State Park",
+          "location": "Michigan",
+          "activities": ["swimming", "beachcombing", "picnicking", "camping"]
+        }
+      ],
+
+    "Minnesota": [
+        {
+          "name": "Gooseberry Falls State Park",
+          "location": "Minnesota",
+          "activities": ["hiking", "waterfalls", "picnicking", "fishing"]
+        },
+        {
+          "name": "Itasca State Park",
+          "location": "Minnesota",
+          "activities": ["hiking", "biking", "wildlife viewing", "boating"]
+        },
+        {
+          "name": "Split Rock Lighthouse State Park",
+          "location": "Minnesota",
+          "activities": ["hiking", "lighthouse tours", "picnicking", "cliff views"]
+        },
+        {
+          "name": "Jay Cooke State Park",
+          "location": "Minnesota",
+          "activities": ["hiking", "biking", "rock climbing", "canoeing"]
+        },
+        {
+          "name": "Tettegouche State Park",
+          "location": "Minnesota",
+          "activities": ["hiking", "cliff views", "waterfalls", "camping"]
+        }
+      ],
+
+    "Mississippi": [
+        {
+          "name": "Tishomingo State Park",
+          "location": "Mississippi",
+          "activities": ["hiking", "rock climbing", "picnicking", "canoeing"]
+        },
+        {
+          "name": "Percy Quin State Park",
+          "location": "Mississippi",
+          "activities": ["golfing", "fishing", "hiking", "camping"]
+        },
+        {
+          "name": "Clarkco State Park",
+          "location": "Mississippi",
+          "activities": ["fishing", "boating", "hiking", "picnicking"]
+        },
+        {
+          "name": "Roosevelt State Park",
+          "location": "Mississippi",
+          "activities": ["golfing", "boating", "fishing", "hiking"]
+        },
+        {
+          "name": "Paul B. Johnson State Park",
+          "location": "Mississippi",
+          "activities": ["boating", "fishing", "hiking", "picnicking"]
+        }
+      ],
+      
+    "Missouri": [
+        {
+          "name": "Ha Ha Tonka State Park",
+          "location": "Missouri",
+          "activities": ["hiking", "cave exploring", "scenic views", "picnicking"]
+        },
+        {
+          "name": "Johnson's Shut-Ins State Park",
+          "location": "Missouri",
+          "activities": ["swimming", "hiking", "rock sliding", "picnicking"]
+        },
+        {
+          "name": "Elephant Rocks State Park",
+          "location": "Missouri",
+          "activities": ["hiking", "giant rock formations", "picnicking", "climbing"]
+        },
+        {
+          "name": "Lake of the Ozarks State Park",
+          "location": "Missouri",
+          "activities": ["boating", "fishing", "hiking", "picnicking"]
+        },
+        {
+          "name": "Meramec State Park",
+          "location": "Missouri",
+          "activities": ["hiking", "cave tours", "fishing", "picnicking"]
+        }
+      ],
+      
+    "Montana": [
+        {
+          "name": "Glacier National Park",
+          "location": "Montana",
+          "activities": ["hiking", "scenic views", "wildlife viewing", "camping"]
+        },
+        {
+          "name": "Yellowstone River State Park",
+          "location": "Montana",
+          "activities": ["fishing", "picnicking", "boating", "birdwatching"]
+        },
+        {
+          "name": "Flathead Lake State Park",
+          "location": "Montana",
+          "activities": ["swimming", "boating", "fishing", "picnicking"]
+        },
+        {
+          "name": "Lewis and Clark Caverns State Park",
+          "location": "Montana",
+          "activities": ["cave exploring", "hiking", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "Makoshika State Park",
+          "location": "Montana",
+          "activities": ["hiking", "dinosaur fossils", "picnicking", "wildlife viewing"]
+        }
+      ],
+      
+    "Nebraska": [
+        {
+          "name": "Chadron State Park",
+          "location": "Nebraska",
+          "activities": ["hiking", "horseback riding", "camping", "picnicking"]
+        },
+        {
+          "name": "Indian Cave State Park",
+          "location": "Nebraska",
+          "activities": ["hiking", "cave exploring", "picnicking", "canoeing"]
+        },
+        {
+          "name": "Fort Robinson State Park",
+          "location": "Nebraska",
+          "activities": ["hiking", "biking", "horseback riding", "camping"]
+        },
+        {
+          "name": "Eugene T. Mahoney State Park",
+          "location": "Nebraska",
+          "activities": ["hiking", "swimming", "fishing", "golfing"]
+        },
+        {
+          "name": "Lake McConaughy State Recreation Area",
+          "location": "Nebraska",
+          "activities": ["boating", "fishing", "swimming", "camping"]
+        }
+      ],
+      
+    "Nevada": [
+        {
+          "name": "Valley of Fire State Park",
+          "location": "Nevada",
+          "activities": ["hiking", "scenic drives", "picnicking", "camping"]
+        },
+        {
+          "name": "Great Basin National Park",
+          "location": "Nevada",
+          "activities": ["hiking", "stargazing", "cave tours", "picnicking"]
+        },
+        {
+          "name": "Lake Tahoe-Nevada State Park",
+          "location": "Nevada",
+          "activities": ["hiking", "boating", "fishing", "picnicking"]
+        },
+        {
+          "name": "Cathedral Gorge State Park",
+          "location": "Nevada",
+          "activities": ["hiking", "cave exploring", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "Red Rock Canyon National Conservation Area",
+          "location": "Nevada",
+          "activities": ["hiking", "rock climbing", "scenic drives", "picnicking"]
+        }
+      ],
+      
+    "New Hampshire": [
+        {
+          "name": "Franconia Notch State Park",
+          "location": "New Hampshire",
+          "activities": ["hiking", "scenic drives", "waterfalls", "picnicking"]
+        },
+        {
+          "name": "White Lake State Park",
+          "location": "New Hampshire",
+          "activities": ["swimming", "fishing", "boating", "picnicking"]
+        },
+        {
+          "name": "Crawford Notch State Park",
+          "location": "New Hampshire",
+          "activities": ["hiking", "scenic drives", "waterfalls", "picnicking"]
+        },
+        {
+          "name": "Pawtuckaway State Park",
+          "location": "New Hampshire",
+          "activities": ["hiking", "swimming", "fishing", "camping"]
+        },
+        {
+          "name": "Monadnock State Park",
+          "location": "New Hampshire",
+          "activities": ["hiking", "rock climbing", "picnicking", "wildlife viewing"]
+        }
+      ],
+      
+    "New Jersey": [
+        {
+          "name": "Delaware Water Gap National Recreation Area",
+          "location": "New Jersey",
+          "activities": ["hiking", "river tubing", "camping", "scenic views"]
+        },
+        {
+          "name": "High Point State Park",
+          "location": "New Jersey",
+          "activities": ["hiking", "picnicking", "scenic views", "swimming"]
+        },
+        {
+          "name": "Island Beach State Park",
+          "location": "New Jersey",
+          "activities": ["beachcombing", "surfing", "fishing", "birdwatching"]
+        },
+        {
+          "name": "Wharton State Forest",
+          "location": "New Jersey",
+          "activities": ["hiking", "canoeing", "camping", "picnicking"]
+        },
+        {
+          "name": "Allaire State Park",
+          "location": "New Jersey",
+          "activities": ["hiking", "biking", "horseback riding", "picnicking"]
+        }
+      ],
+      
+    "New Mexico": [
+        {
+          "name": "Carlsbad Caverns National Park",
+          "location": "New Mexico",
+          "activities": ["cave exploring", "bat flight program", "hiking", "picnicking"]
+        },
+        {
+          "name": "White Sands National Park",
+          "location": "New Mexico",
+          "activities": ["sand sledding", "sunset strolls", "star gazing", "picnicking"]
+        },
+        {
+          "name": "Bandelier National Monument",
+          "location": "New Mexico",
+          "activities": ["hiking", "ancient cliff dwellings", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "Bottomless Lakes State Park",
+          "location": "New Mexico",
+          "activities": ["swimming", "boating", "fishing", "picnicking"]
+        },
+        {
+          "name": "City of Rocks State Park",
+          "location": "New Mexico",
+          "activities": ["rock climbing", "camping", "stargazing", "hiking"]
+        }
+      ],
+      
+    "New York": [
+        {
+          "name": "Letchworth State Park",
+          "location": "New York",
+          "activities": ["hiking", "waterfalls", "picnicking", "white-water rafting"]
+        },
+        {
+          "name": "Adirondack Park",
+          "location": "New York",
+          "activities": ["hiking", "boating", "fishing", "camping"]
+        },
+        {
+          "name": "Niagara Falls State Park",
+          "location": "New York",
+          "activities": ["viewing the falls", "Maid of the Mist boat tour", "cave of the winds", "picnicking"]
+        },
+        {
+          "name": "Harriman State Park",
+          "location": "New York",
+          "activities": ["hiking", "swimming", "fishing", "camping"]
+        },
+        {
+          "name": "Robert H. Treman State Park",
+          "location": "New York",
+          "activities": ["hiking", "swimming", "waterfalls", "picnicking"]
+        }
+      ],
+      
+    "North Carolina": [
+        {
+          "name": "Great Smoky Mountains National Park",
+          "location": "North Carolina",
+          "activities": ["hiking", "wildlife viewing", "scenic drives", "camping"]
+        },
+        {
+          "name": "Blue Ridge Parkway",
+          "location": "North Carolina",
+          "activities": ["scenic drives", "hiking", "picnicking", "wildlife viewing"]
+        },
+        {
+          "name": "Pisgah National Forest",
+          "location": "North Carolina",
+          "activities": ["hiking", "waterfalls", "camping", "fishing"]
+        },
+        {
+          "name": "Hanging Rock State Park",
+          "location": "North Carolina",
+          "activities": ["hiking", "rock climbing", "picnicking", "swimming"]
+        },
+        {
+          "name": "Jockey's Ridge State Park",
+          "location": "North Carolina",
+          "activities": ["hang gliding", "sandboarding", "kite flying", "hiking"]
+        }
+      ],
+      
+    "North Dakota": [
+        {
+          "name": "Theodore Roosevelt National Park",
+          "location": "North Dakota",
+          "activities": ["hiking", "wildlife viewing", "scenic drives", "camping"]
+        },
+        {
+          "name": "Fort Abraham Lincoln State Park",
+          "location": "North Dakota",
+          "activities": ["historic site tours", "hiking", "picnicking", "horseback riding"]
+        },
+        {
+          "name": "Lake Sakakawea State Park",
+          "location": "North Dakota",
+          "activities": ["boating", "fishing", "swimming", "camping"]
+        },
+        {
+          "name": "Grahams Island State Park",
+          "location": "North Dakota",
+          "activities": ["hiking", "birdwatching", "fishing", "picnicking"]
+        },
+        {
+          "name": "Little Missouri State Park",
+          "location": "North Dakota",
+          "activities": ["hiking", "horseback riding", "picnicking", "wildlife viewing"]
+        }
+      ],
+      
+    "Ohio": [
+        {
+          "name": "Hocking Hills State Park",
+          "location": "Ohio",
+          "activities": ["hiking", "rock climbing", "waterfalls", "cave exploring"]
+        },
+        {
+          "name": "Cuyahoga Valley National Park",
+          "location": "Ohio",
+          "activities": ["hiking", "biking", "scenic train rides", "picnicking"]
+        },
+        {
+          "name": "Mohican State Park",
+          "location": "Ohio",
+          "activities": ["hiking", "canoeing", "horseback riding", "camping"]
+        },
+        {
+          "name": "Lake Erie State Park",
+          "location": "Ohio",
+          "activities": ["beachcombing", "fishing", "boating", "picnicking"]
+        },
+        {
+          "name": "Hueston Woods State Park",
+          "location": "Ohio",
+          "activities": ["hiking", "swimming", "boating", "golfing"]
+        }
+      ],
+      
+    "Oklahoma": [
+        {
+          "name": "Beavers Bend State Park",
+          "location": "Oklahoma",
+          "activities": ["hiking", "fishing", "canoeing", "horseback riding"]
+        },
+        {
+          "name": "Robbers Cave State Park",
+          "location": "Oklahoma",
+          "activities": ["hiking", "rock climbing", "cave exploring", "fishing"]
+        },
+        {
+          "name": "Turner Falls Park",
+          "location": "Oklahoma",
+          "activities": ["swimming", "hiking", "picnicking", "exploring waterfalls"]
+        },
+        {
+          "name": "Chickasaw National Recreation Area",
+          "location": "Oklahoma",
+          "activities": ["swimming", "hiking", "picnicking", "bathhouse tours"]
+        },
+        {
+          "name": "Greenleaf State Park",
+          "location": "Oklahoma",
+          "activities": ["boating", "fishing", "hiking", "camping"]
+        }
+      ],
+     
+    "Oregon": [
+        {
+          "name": "Crater Lake National Park",
+          "location": "Oregon",
+          "activities": ["hiking", "scenic drives", "snowshoeing", "wildlife viewing"]
+        },
+        {
+          "name": "Columbia River Gorge National Scenic Area",
+          "location": "Oregon",
+          "activities": ["hiking", "waterfalls", "wildflower viewing", "birdwatching"]
+        },
+        {
+          "name": "Smith Rock State Park",
+          "location": "Oregon",
+          "activities": ["rock climbing", "hiking", "biking", "photography"]
+        },
+        {
+          "name": "Silver Falls State Park",
+          "location": "Oregon",
+          "activities": ["hiking", "waterfalls", "picnicking", "horseback riding"]
+        },
+        {
+          "name": "Fort Stevens State Park",
+          "location": "Oregon",
+          "activities": ["beachcombing", "biking", "hiking", "historic site tours"]
+        }
+      ],
+      
+    "Pennsylvania": [
+        {
+          "name": "Ricketts Glen State Park",
+          "location": "Pennsylvania",
+          "activities": ["hiking", "waterfalls", "camping", "picnicking"]
+        },
+        {
+          "name": "Presque Isle State Park",
+          "location": "Pennsylvania",
+          "activities": ["beachcombing", "swimming", "boating", "fishing"]
+        },
+        {
+          "name": "Ohiopyle State Park",
+          "location": "Pennsylvania",
+          "activities": ["hiking", "white-water rafting", "biking", "fishing"]
+        },
+        {
+          "name": "Hickory Run State Park",
+          "location": "Pennsylvania",
+          "activities": ["hiking", "boulder fields", "swimming", "fishing"]
+        },
+        {
+          "name": "Worlds End State Park",
+          "location": "Pennsylvania",
+          "activities": ["hiking", "canyon vista", "camping", "picnicking"]
+        }
+      ],
+
+    "Rhode Island": [
+        {
+          "name": "Beavertail State Park",
+          "location": "Rhode Island",
+          "activities": ["hiking", "fishing", "picnicking", "scenic views"]
+        },
+        {
+          "name": "Colt State Park",
+          "location": "Rhode Island",
+          "activities": ["hiking", "biking", "picnicking", "playing fields"]
+        },
+        {
+          "name": "Brenton Point State Park",
+          "location": "Rhode Island",
+          "activities": ["kite flying", "picnicking", "scenic views", "birdwatching"]
+        },
+        {
+          "name": "Lincoln Woods State Park",
+          "location": "Rhode Island",
+          "activities": ["hiking", "biking", "swimming", "picnicking"]
+        },
+        {
+          "name": "Roger Wheeler State Beach",
+          "location": "Rhode Island",
+          "activities": ["swimming", "picnicking", "beachcombing", "playing fields"]
+        }
+      ],
+        
+    "South Carolina": [
+        {
+          "name": "Huntington Beach State Park",
+          "location": "South Carolina",
+          "activities": ["beachcombing", "birdwatching", "picnicking", "nature trails"]
+        },
+        {
+          "name": "Congaree National Park",
+          "location": "South Carolina",
+          "activities": ["hiking", "kayaking", "canoeing", "birdwatching"]
+        },
+        {
+          "name": "Caesars Head State Park",
+          "location": "South Carolina",
+          "activities": ["hiking", "scenic views", "waterfalls", "picnicking"]
+        },
+        {
+          "name": "Myrtle Beach State Park",
+          "location": "South Carolina",
+          "activities": ["swimming", "fishing", "picnicking", "beachcombing"]
+        },
+        {
+          "name": "Table Rock State Park",
+          "location": "South Carolina",
+          "activities": ["hiking", "swimming", "fishing", "camping"]
+        }
+      ],
+   
+    "South Dakota": [
+        {
+          "name": "Custer State Park",
+          "location": "South Dakota",
+          "activities": ["wildlife viewing", "hiking", "scenic drives", "horseback riding"]
+        },
+        {
+          "name": "Badlands National Park",
+          "location": "South Dakota",
+          "activities": ["hiking", "sightseeing", "wildlife viewing", "stargazing"]
+        },
+        {
+          "name": "Palisades State Park",
+          "location": "South Dakota",
+          "activities": ["hiking", "rock climbing", "picnicking", "canoeing"]
+        },
+        {
+          "name": "Sica Hollow State Park",
+          "location": "South Dakota",
+          "activities": ["hiking", "birdwatching", "picnicking", "photography"]
+        },
+        {
+          "name": "Bear Butte State Park",
+          "location": "South Dakota",
+          "activities": ["hiking", "cultural and historical site tours", "wildlife viewing", "photography"]
+        }
+      ],
+        
+    "Tennessee": [
+        {
+          "name": "Great Smoky Mountains National Park",
+          "location": "Tennessee",
+          "activities": ["hiking", "wildlife viewing", "scenic drives", "picnicking"]
+        },
+        {
+          "name": "Fall Creek Falls State Park",
+          "location": "Tennessee",
+          "activities": ["hiking", "waterfalls", "swimming", "golfing"]
+        },
+        {
+          "name": "Rock Island State Park",
+          "location": "Tennessee",
+          "activities": ["hiking", "waterfalls", "swimming", "fishing"]
+        },
+        {
+          "name": "Big South Fork National River and Recreation Area",
+          "location": "Tennessee",
+          "activities": ["hiking", "horseback riding", "rafting", "caving"]
+        },
+        {
+          "name": "Cumberland Mountain State Park",
+          "location": "Tennessee",
+          "activities": ["hiking", "boating", "fishing", "golfing"]
+        }
+      ],
+
+    "Texas": [
+        {
+          "name": "Big Bend National Park",
+          "location": "Texas",
+          "activities": ["hiking", "camping", "birdwatching", "stargazing"]
+        },
+        {
+          "name": "Guadalupe Mountains National Park",
+          "location": "Texas",
+          "activities": ["hiking", "backpacking", "cave tours", "wildlife viewing"]
+        },
+        {
+          "name": "Enchanted Rock State Natural Area",
+          "location": "Texas",
+          "activities": ["hiking", "rock climbing", "stargazing", "picnicking"]
+        },
+        {
+          "name": "Palo Duro Canyon State Park",
+          "location": "Texas",
+          "activities": ["hiking", "horseback riding", "cave exploring", "birdwatching"]
+        },
+        {
+          "name": "Pedernales Falls State Park",
+          "location": "Texas",
+          "activities": ["hiking", "swimming", "fishing", "photography"]
+        }
+      ],
+        
+    "Utah": [
+        {
+          "name": "Zion National Park",
+          "location": "Utah",
+          "activities": ["hiking", "canyoneering", "scenic drives", "wildlife viewing"]
+        },
+        {
+          "name": "Arches National Park",
+          "location": "Utah",
+          "activities": ["hiking", "rock climbing", "arches viewing", "stargazing"]
+        },
+        {
+          "name": "Bryce Canyon National Park",
+          "location": "Utah",
+          "activities": ["hiking", "stargazing", "scenic drives", "photography"]
+        },
+        {
+          "name": "Canyonlands National Park",
+          "location": "Utah",
+          "activities": ["hiking", "white-water rafting", "4x4 driving", "stargazing"]
+        },
+        {
+          "name": "Snow Canyon State Park",
+          "location": "Utah",
+          "activities": ["hiking", "rock climbing", "picnicking", "wildlife viewing"]
+        }
+      ],
+    
+    "Vermont": [
+        {
+          "name": "Green Mountain National Forest",
+          "location": "Vermont",
+          "activities": ["hiking", "camping", "fishing", "wildlife viewing"]
+        },
+        {
+          "name": "Camel's Hump State Park",
+          "location": "Vermont",
+          "activities": ["hiking", "backpacking", "scenic views", "picnicking"]
+        },
+        {
+          "name": "Smugglers' Notch State Park",
+          "location": "Vermont",
+          "activities": ["hiking", "rock climbing", "scenic drives", "wildlife viewing"]
+        },
+        {
+          "name": "Quechee State Park",
+          "location": "Vermont",
+          "activities": ["hiking", "picnicking", "swimming", "fishing"]
+        },
+        {
+          "name": "Molly Stark State Park",
+          "location": "Vermont",
+          "activities": ["hiking", "camping", "picnicking", "wildlife viewing"]
+        }
+      ],
+        
+    "Virginia": [
+        {
+          "name": "Shenandoah National Park",
+          "location": "Virginia",
+          "activities": ["hiking", "scenic drives", "wildlife viewing", "camping"]
+        },
+        {
+          "name": "Grayson Highlands State Park",
+          "location": "Virginia",
+          "activities": ["hiking", "wild ponies viewing", "picnicking", "stargazing"]
+        },
+        {
+          "name": "Chincoteague National Wildlife Refuge",
+          "location": "Virginia",
+          "activities": ["birdwatching", "wildlife viewing", "beachcombing", "photography"]
+        },
+        {
+          "name": "First Landing State Park",
+          "location": "Virginia",
+          "activities": ["hiking", "swimming", "fishing", "biking"]
+        },
+        {
+          "name": "Natural Bridge State Park",
+          "location": "Virginia",
+          "activities": ["hiking", "cave tours", "birdwatching", "photography"]
+        }
+      ],
+      
+    "Washington": [
+        {
+          "name": "Mount Rainier National Park",
+          "location": "Washington",
+          "activities": ["hiking", "scenic drives", "wildlife viewing", "camping"]
+        },
+        {
+          "name": "Olympic National Park",
+          "location": "Washington",
+          "activities": ["hiking", "beachcombing", "wildlife viewing", "rainforest exploring"]
+        },
+        {
+          "name": "North Cascades National Park",
+          "location": "Washington",
+          "activities": ["hiking", "backpacking", "scenic drives", "wildlife viewing"]
+        },
+        {
+          "name": "Deception Pass State Park",
+          "location": "Washington",
+          "activities": ["hiking", "picnicking", "beachcombing", "boating"]
+        },
+        {
+          "name": "Mount Spokane State Park",
+          "location": "Washington",
+          "activities": ["hiking", "skiing", "snowshoeing", "wildlife viewing"]
+        }
+      ],
+      
+    "West Virginia": [
+        {
+          "name": "Blackwater Falls State Park",
+          "location": "West Virginia",
+          "activities": ["hiking", "waterfalls", "picnicking", "cross-country skiing"]
+        },
+        {
+          "name": "Canaan Valley Resort State Park",
+          "location": "West Virginia",
+          "activities": ["skiing", "snowboarding", "golfing", "hiking"]
+        },
+        {
+          "name": "Seneca Rocks",
+          "location": "West Virginia",
+          "activities": ["rock climbing", "hiking", "caving", "scenic views"]
+        },
+        {
+          "name": "Hawks Nest State Park",
+          "location": "West Virginia",
+          "activities": ["scenic views", "tram rides", "hiking", "birdwatching"]
+        },
+        {
+          "name": "Watoga State Park",
+          "location": "West Virginia",
+          "activities": ["hiking", "fishing", "boating", "picnicking"]
+        }
+      ],
+     
+    "Wisconsin": [
+        {
+          "name": "Devil's Lake State Park",
+          "location": "Wisconsin",
+          "activities": ["hiking", "rock climbing", "swimming", "camping"]
+        },
+        {
+          "name": "Peninsula State Park",
+          "location": "Wisconsin",
+          "activities": ["hiking", "biking", "golfing", "kayaking"]
+        },
+        {
+          "name": "Apostle Islands National Lakeshore",
+          "location": "Wisconsin",
+          "activities": ["kayaking", "sailing", "lighthouse tours", "camping"]
+        },
+        {
+          "name": "Governor Dodge State Park",
+          "location": "Wisconsin",
+          "activities": ["hiking", "horseback riding", "fishing", "picnicking"]
+        },
+        {
+          "name": "Willow River State Park",
+          "location": "Wisconsin",
+          "activities": ["hiking", "waterfalls", "swimming", "camping"]
+        }
+      ],
+      
+    "Wyoming": [
+        {
+          "name": "Yellowstone National Park",
+          "location": "Wyoming",
+          "activities": ["hiking", "camping", "fishing", "geysers"]
+        },
+        {
+          "name": "Grand Teton National Park",
+          "location": "Wyoming",
+          "activities": ["hiking", "wildlife viewing", "boating", "scenic drives"]
+        },
+        {
+          "name": "Devils Tower National Monument",
+          "location": "Wyoming",
+          "activities": ["rock climbing", "hiking", "photography", "wildlife viewing"]
+        },
+        {
+          "name": "Bighorn Canyon National Recreation Area",
+          "location": "Wyoming",
+          "activities": ["boating", "fishing", "hiking", "wildlife viewing"]
+        },
+        {
+          "name": "Medicine Bow-Routt National Forest",
+          "location": "Wyoming",
+          "activities": ["hiking", "camping", "fishing", "wildlife viewing"]
+        }
+      ]
+      
+    }
