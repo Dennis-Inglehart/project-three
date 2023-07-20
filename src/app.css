@@ -35,3 +35,94 @@ nav {
   padding: 20px;
   font-size: 20px;
 }
+
+.register-container {
+  display: flex;
+  flex-direction: column; /* Adjust the flex direction to stack items */
+  align-items: center; /* Center items horizontally */
+  justify-content: flex-start; /* Align items to the top */
+  height: calc(100vh - 80px); /* Adjust for header height */
+}
+
+/* New CSS for the input container and the input elements */
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; /* Allow input elements to wrap if container width is limited */
+}
+
+.register input {
+  width: 300px; /* Adjust the width to your preference */
+  max-width: 100%; /* Ensure the input doesn't exceed the container width */
+  border: 1px solid brown;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.register-form {
+  text-align: center;
+  padding: 20px;
+  background-color: wheat;
+}
+
+.register h1 {
+  font-size: 30px;
+  color: brown;
+}
+
+.register input {
+  border: 1px solid brown;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+}
+
+/* Adjust the styles for the register button here */
+.register-button {
+  background-color: brown;
+  color: wheat;
+  font-size: 150%;
+  text-align: center;
+  margin-left: 43%;
+  margin-top: 1%;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.register-button:hover {
+  background-color: #7d502d;
+}
+
+/* Additional styles for the link */
+.register a {
+  text-decoration: none;
+  color: wheat;
+  font-size: 16px;
+}
+
+.register-page .app-header {
+  display: flex;
+  justify-content: space-between; /* Justify content to the right */
+  align-items: center; /* Align items vertically */
+  padding: 80px;
+  background-color: brown;
+  color: wheat;
+  font-size: 30px;
+}
+
+.register-page .app-header > div {
+  display: flex;
+  align-items: center;
+}
+
+.register-page .app-header a {
+  text-decoration: none;
+  color: wheat;
+  font-size: 16px;
+}
