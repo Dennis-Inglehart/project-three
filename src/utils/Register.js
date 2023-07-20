@@ -6,20 +6,21 @@ export default function Register()
 {
     const [userName, setUserName] = useState('');
     const [password, setPassword] = useState('');
-    try{
     async function registerFunction(ev){
-    ev.preventDefault();
-    await fetch('http://localhost:4000/register', {
-        method: 'POST',
-        body: JSON.stringify({userName, password}),
-        headers: {'Content-Type':'application/json'},
-    })
-    }
-}
-catch(err)
-{
-    console.log(err);
-};
+        ev.preventDefault();
+        try{
+            await fetch('http://localhost:4000/register', {
+                method: 'POST',
+                body: JSON.stringify({userName, password}),
+                headers: {'Content-Type':'application/json'},
+            })
+//this is where u will pass the response from the server with user and token up to the application    
+        }
+        catch(err)
+        {
+            console.log(err);
+        };
+        }
     return(
         <form className="register" onSubmit={registerFunction}>
             <Link to="/">Back</Link>
