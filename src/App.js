@@ -56,11 +56,11 @@ function App()
     <Routes>
       <Route index element={<main>
       <header>
-        <div id='header'>National Parks App</div>
-        <nav>
-        <Link to="/Login">Login</Link>
-        <Link to="/Register">Signup</Link>
-        <Link to="/Profile">Profile</Link>
+        <div id='header'>National Parks</div>
+        <nav >
+        <Link to="/Login" className="Links">Login</Link>
+        <Link to="/Register"className="Links" >Signup</Link>
+        <Link to="/Profile" className="Links">Profile</Link>
         </nav>
       </header>
       <div id="chooseParks">

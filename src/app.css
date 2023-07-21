@@ -35,6 +35,14 @@ nav {
   font-size: 25px;
   font-family: Arial;
   font-weight: bold;
+  
+}
+
+.Links{
+  color: rgb(100, 62, 62)!important;
+  background-color: wheat;
+  padding:10px;
+  border-radius: 20px;
 }
 
 
