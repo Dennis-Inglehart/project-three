@@ -7,7 +7,7 @@ html {
 }
 
 header {
-  padding: 80px;
+    padding: 20px;
     text-align: center;
     background-color: brown;
     color: wheat;
@@ -31,10 +31,12 @@ nav {
   flex-direction: row;
   display: flex;
   justify-content: space-evenly;
-  background-color: rgb(107, 60, 60);
   padding: 20px;
-  font-size: 20px;
+  font-size: 25px;
+  font-family: Arial;
+  font-weight: bold;
 }
+
 
 .register-container {
   display: flex;
@@ -126,3 +128,4 @@ nav {
   color: wheat;
   font-size: 16px;
 }
+
