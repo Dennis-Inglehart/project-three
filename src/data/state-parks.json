@@ -1,5 +1,8 @@
 {
-    "Alabama": [
+  "states": [
+    {
+      "name": "Alabama",
+      "parks": [
         {
           "name": "Gulf State Park",
           "location": "Alabama",
@@ -25,9 +28,12 @@
           "location": "Alabama",
           "activities": ["boating", "fishing", "hiking", "golfing"]
         }
-      ],
+      ]
+    },
 
-    "Alaska": [
+    {
+      "name": "Alaska",
+      "parks": [
         {
           "name": "Denali National Park",
           "location": "Alaska",
@@ -53,9 +59,12 @@
           "location": "Alaska",
           "activities": ["hiking", "kayaking", "camping", "beachcombing"]
         }
-      ],
+      ]
+    },
     
-    "Arizona": [
+    {
+    "name": "Arizona",
+    "parks": [
         {
           "name": "Grand Canyon National Park",
           "location": "Arizona",
@@ -81,9 +90,12 @@
           "location": "Arizona",
           "activities": ["swimming", "picnicking", "natural water slide", "hiking"]
         }
-      ],
+      ]
+    },
     
-    "Arkansas": [
+    {
+    "name": "Arkansas",
+    "parks": [
         {
           "name": "Hot Springs National Park",
           "location": "Arkansas",
@@ -109,9 +121,12 @@
           "location": "Arkansas",
           "activities": ["hiking", "hang gliding", "rock climbing", "camping"]
         }
-      ],
+      ]
+    },
 
-    "California": [
+    {
+    "name": "California",
+    "parks": [
         {
           "name": "Yosemite National Park",
           "location": "California",
@@ -137,9 +152,12 @@
           "location": "California",
           "activities": ["hiking", "fishing", "picnicking", "mountain biking"]
         }
-      ],
+      ]
+    },
 
-    "Colorado": [
+    {
+    "name": "Colorado",
+    "parks": [
         {
           "name": "Rocky Mountain National Park",
           "location": "Colorado",
@@ -165,9 +183,12 @@
           "location": "Colorado",
           "activities": ["hiking", "scenic drives", "fishing", "wildlife viewing"]
         }
-      ],
-      
-    "Connecticut": [
+      ]
+    },
+    
+    {
+    "name": "Connecticut",
+    "parks": [
         {
           "name": "Gillette Castle State Park",
           "location": "Connecticut",
@@ -193,9 +214,12 @@
           "location": "Connecticut",
           "activities": ["fossil exploration", "nature trails", "exhibits", "picnicking"]
         }
-      ],
+      ]
+    },
 
-    "Delaware": [
+    {
+    "name": "Delaware",
+    "parks": [
         {
           "name": "Cape Henlopen State Park",
           "location": "Delaware",
@@ -221,9 +245,12 @@
           "location": "Delaware",
           "activities": ["fishing", "boating", "hiking", "camping"]
         }
-      ],
+      ]
+    },
 
-    "Florida": [
+    {
+    "name": "Florida",
+    "parks": [
         {
           "name": "Everglades National Park",
           "location": "Florida",
@@ -249,9 +276,12 @@
           "location": "Florida",
           "activities": ["snorkeling", "diving", "glass-bottom boat tours", "kayaking"]
         }
-      ],
+      ]
+    },
 
-    "Georgia": [
+    {
+    "name": "Georgia",
+    "parks": [
         {
           "name": "Amicalola Falls State Park",
           "location": "Georgia",
@@ -277,9 +307,12 @@
           "location": "Georgia",
           "activities": ["hiking", "canyon overlooks", "camping", "picnicking"]
         }
-      ],
+      ]
+    },
 
-    "Hawaii": [
+    {
+    "name": "Hawaii",
+    "parks": [
         {
           "name": "Haleakalā National Park",
           "location": "Hawaii",
@@ -305,9 +338,12 @@
           "location": "Hawaii",
           "activities": ["cultural site visit", "snorkeling", "picnicking", "hiking"]
         }
-      ],
-       
-    "Idaho": [
+      ]
+    },
+    
+    {
+    "name": "Idaho",
+    "parks": [
         {
           "name": "Yellowstone National Park",
           "location": "Idaho",
@@ -333,9 +369,12 @@
           "location": "Idaho",
           "activities": ["hiking", "camping", "fishing", "backpacking"]
         }
-      ],
-       
-    "Illinois": [
+      ]
+    },
+      
+    {
+    "name": "Illinois",
+    "parks": [
         {
           "name": "Starved Rock State Park",
           "location": "Illinois",
@@ -361,9 +400,12 @@
           "location": "Illinois",
           "activities": ["beachcombing", "hiking", "picnicking", "fishing"]
         }
-      ],
+      ]
+    },
 
-    "Indiana": [
+    {
+    "name": "Indiana",
+    "parks": [
         {
           "name": "Brown County State Park",
           "location": "Indiana",
@@ -389,9 +431,12 @@
           "location": "Indiana",
           "activities": ["hiking", "waterfalls", "picnicking", "cave exploring"]
         }
-      ],
+      ]
+    },
       
-    "Iowa": [
+    {
+    "name": "Iowa",
+    "parks": [
         {
           "name": "Pikes Peak State Park",
           "location": "Iowa",
@@ -417,9 +462,12 @@
           "location": "Iowa",
           "activities": ["hiking", "fishing", "picnicking", "scenic views"]
         }
-      ],
-        
-    "Kansas": [
+      ]
+    },
+      
+    {
+    "name": "Kansas",
+    "parks": [
         {
           "name": "Tuttle Creek State Park",
           "location": "Kansas",
@@ -445,9 +493,12 @@
           "location": "Kansas",
           "activities": ["boating", "fishing", "hiking", "camping"]
         }
-      ],
-        
-    "Kentucky": [
+      ]
+    },
+     
+    {
+    "name": "Kentucky",
+    "parks": [
         {
           "name": "Natural Bridge State Resort Park",
           "location": "Kentucky",
@@ -473,9 +524,12 @@
           "location": "Kentucky",
           "activities": ["boating", "fishing", "hiking", "camping"]
         }
-      ],
+      ]
+    },
 
-    "Louisiana": [
+    {
+    "name": "Louisiana",
+    "parks": [
         {
           "name": "Fontainebleau State Park",
           "location": "Louisiana",
@@ -501,9 +555,12 @@
           "location": "Louisiana",
           "activities": ["boating", "fishing", "hiking", "picnicking"]
         }
-      ],
+      ]
+    },
 
-    "Maine": [
+    {
+    "name": "Maine",
+    "parks": [
         {
           "name": "Acadia National Park",
           "location": "Maine",
@@ -529,9 +586,12 @@
           "location": "Maine",
           "activities": ["boating", "fishing", "hiking", "camping"]
         }
-      ],
-      
-    "Maryland": [
+      ]
+    },
+     
+    {
+    "name": "Maryland",
+    "parks": [
         {
           "name": "Assateague State Park",
           "location": "Maryland",
@@ -557,9 +617,12 @@
           "location": "Maryland",
           "activities": ["boating", "fishing", "hiking", "golfing"]
         }
-      ],
-      
-    "Massachusetts": [
+      ]
+    },
+     
+    {
+    "name": "Massachusetts",
+    "parks": [
         {
           "name": "Cape Cod National Seashore",
           "location": "Massachusetts",
@@ -585,9 +648,12 @@
           "location": "Massachusetts",
           "activities": ["hiking", "biking", "swimming", "fishing"]
         }
-      ],      
-      
-    "Michigan": [
+      ]
+    },      
+     
+    {
+    "name": "Michigan",
+    "parks": [
         {
           "name": "Isle Royale National Park",
           "location": "Michigan",
@@ -613,9 +679,12 @@
           "location": "Michigan",
           "activities": ["swimming", "beachcombing", "picnicking", "camping"]
         }
-      ],
+      ]
+    },
 
-    "Minnesota": [
+  {
+  "name": "Minnesota",
+  "parks": [
         {
           "name": "Gooseberry Falls State Park",
           "location": "Minnesota",
@@ -641,9 +710,12 @@
           "location": "Minnesota",
           "activities": ["hiking", "cliff views", "waterfalls", "camping"]
         }
-      ],
+      ]
+    },
 
-    "Mississippi": [
+    {
+    "name": "Mississippi",
+    "parks": [
         {
           "name": "Tishomingo State Park",
           "location": "Mississippi",
@@ -669,9 +741,12 @@
           "location": "Mississippi",
           "activities": ["boating", "fishing", "hiking", "picnicking"]
         }
-      ],
-      
-    "Missouri": [
+      ]
+    },
+     
+    {
+    "name": "Missouri",
+    "parks": [
         {
           "name": "Ha Ha Tonka State Park",
           "location": "Missouri",
@@ -697,9 +772,12 @@
           "location": "Missouri",
           "activities": ["hiking", "cave tours", "fishing", "picnicking"]
         }
-      ],
-      
-    "Montana": [
+      ]
+    },
+     
+    {
+    "name": "Montana",
+    "parks": [
         {
           "name": "Glacier National Park",
           "location": "Montana",
@@ -725,9 +803,12 @@
           "location": "Montana",
           "activities": ["hiking", "dinosaur fossils", "picnicking", "wildlife viewing"]
         }
-      ],
-      
-    "Nebraska": [
+      ]
+    },
+     
+    {
+    "name": "Nebraska",
+    "parks": [
         {
           "name": "Chadron State Park",
           "location": "Nebraska",
@@ -753,9 +834,12 @@
           "location": "Nebraska",
           "activities": ["boating", "fishing", "swimming", "camping"]
         }
-      ],
-      
-    "Nevada": [
+      ]
+    },
+     
+    {
+    "name": "Nevada",
+    "parks": [
         {
           "name": "Valley of Fire State Park",
           "location": "Nevada",
@@ -781,9 +865,12 @@
           "location": "Nevada",
           "activities": ["hiking", "rock climbing", "scenic drives", "picnicking"]
         }
-      ],
-      
-    "New Hampshire": [
+      ]
+    },
+     
+    {
+    "name": "New Hampshire",
+    "parks": [
         {
           "name": "Franconia Notch State Park",
           "location": "New Hampshire",
@@ -809,9 +896,12 @@
           "location": "New Hampshire",
           "activities": ["hiking", "rock climbing", "picnicking", "wildlife viewing"]
         }
-      ],
-      
-    "New Jersey": [
+      ]
+    },
+     
+    {
+    "name": "New Jersey",
+    "parks": [
         {
           "name": "Delaware Water Gap National Recreation Area",
           "location": "New Jersey",
@@ -837,9 +927,12 @@
           "location": "New Jersey",
           "activities": ["hiking", "biking", "horseback riding", "picnicking"]
         }
-      ],
-      
-    "New Mexico": [
+      ]
+    },
+
+    {  
+    "name": "New Mexico",
+    "parks": [
         {
           "name": "Carlsbad Caverns National Park",
           "location": "New Mexico",
@@ -865,9 +958,12 @@
           "location": "New Mexico",
           "activities": ["rock climbing", "camping", "stargazing", "hiking"]
         }
-      ],
-      
-    "New York": [
+      ]
+    },
+     
+    {
+    "name": "New York",
+    "parks": [
         {
           "name": "Letchworth State Park",
           "location": "New York",
@@ -893,9 +989,12 @@
           "location": "New York",
           "activities": ["hiking", "swimming", "waterfalls", "picnicking"]
         }
-      ],
-      
-    "North Carolina": [
+      ]
+    },
+     
+    {
+    "name": "North Carolina",
+    "parks": [
         {
           "name": "Great Smoky Mountains National Park",
           "location": "North Carolina",
@@ -921,9 +1020,12 @@
           "location": "North Carolina",
           "activities": ["hang gliding", "sandboarding", "kite flying", "hiking"]
         }
-      ],
-      
-    "North Dakota": [
+      ]
+    },
+     
+  {
+  "name": "North Dakota",
+  "parks": [
         {
           "name": "Theodore Roosevelt National Park",
           "location": "North Dakota",
@@ -949,9 +1051,12 @@
           "location": "North Dakota",
           "activities": ["hiking", "horseback riding", "picnicking", "wildlife viewing"]
         }
-      ],
-      
-    "Ohio": [
+      ]
+    },
+     
+    {
+    "name": "Ohio",
+    "parks": [
         {
           "name": "Hocking Hills State Park",
           "location": "Ohio",
@@ -977,9 +1082,12 @@
           "location": "Ohio",
           "activities": ["hiking", "swimming", "boating", "golfing"]
         }
-      ],
-      
-    "Oklahoma": [
+      ]
+    },
+     
+    {
+    "name": "Oklahoma",
+    "parks": [
         {
           "name": "Beavers Bend State Park",
           "location": "Oklahoma",
@@ -1005,9 +1113,12 @@
           "location": "Oklahoma",
           "activities": ["boating", "fishing", "hiking", "camping"]
         }
-      ],
+      ]
+    },
      
-    "Oregon": [
+    {
+    "name": "Oregon",
+    "parks": [
         {
           "name": "Crater Lake National Park",
           "location": "Oregon",
@@ -1033,9 +1144,12 @@
           "location": "Oregon",
           "activities": ["beachcombing", "biking", "hiking", "historic site tours"]
         }
-      ],
-      
-    "Pennsylvania": [
+      ]
+    },
+     
+    {
+    "name": "Pennsylvania",
+    "parks": [
         {
           "name": "Ricketts Glen State Park",
           "location": "Pennsylvania",
@@ -1061,9 +1175,12 @@
           "location": "Pennsylvania",
           "activities": ["hiking", "canyon vista", "camping", "picnicking"]
         }
-      ],
+      ]
+    },
 
-    "Rhode Island": [
+    {
+    "name": "Rhode Island",
+    "parks": [
         {
           "name": "Beavertail State Park",
           "location": "Rhode Island",
@@ -1089,9 +1206,12 @@
           "location": "Rhode Island",
           "activities": ["swimming", "picnicking", "beachcombing", "playing fields"]
         }
-      ],
-        
-    "South Carolina": [
+      ]
+    },
+     
+    {
+    "name": "South Carolina",
+    "parks": [
         {
           "name": "Huntington Beach State Park",
           "location": "South Carolina",
@@ -1117,9 +1237,12 @@
           "location": "South Carolina",
           "activities": ["hiking", "swimming", "fishing", "camping"]
         }
-      ],
+      ]
+    },
    
-    "South Dakota": [
+    {
+    "name": "South Dakota",
+    "parks": [
         {
           "name": "Custer State Park",
           "location": "South Dakota",
@@ -1145,9 +1268,12 @@
           "location": "South Dakota",
           "activities": ["hiking", "cultural and historical site tours", "wildlife viewing", "photography"]
         }
-      ],
-        
-    "Tennessee": [
+      ]
+    },
+
+    {
+    "name": "Tennessee",
+    "parks": [
         {
           "name": "Great Smoky Mountains National Park",
           "location": "Tennessee",
@@ -1173,9 +1299,12 @@
           "location": "Tennessee",
           "activities": ["hiking", "boating", "fishing", "golfing"]
         }
-      ],
+      ]
+    },
 
-    "Texas": [
+    {
+    "name": "Texas",
+    "parks": [
         {
           "name": "Big Bend National Park",
           "location": "Texas",
@@ -1201,9 +1330,12 @@
           "location": "Texas",
           "activities": ["hiking", "swimming", "fishing", "photography"]
         }
-      ],
-        
-    "Utah": [
+      ]
+    },
+       
+    {
+    "name": "Utah",
+    "parks": [
         {
           "name": "Zion National Park",
           "location": "Utah",
@@ -1229,9 +1361,12 @@
           "location": "Utah",
           "activities": ["hiking", "rock climbing", "picnicking", "wildlife viewing"]
         }
-      ],
-    
-    "Vermont": [
+      ]
+    },
+
+    {
+    "name": "Vermont",
+    "parks": [
         {
           "name": "Green Mountain National Forest",
           "location": "Vermont",
@@ -1257,9 +1392,12 @@
           "location": "Vermont",
           "activities": ["hiking", "camping", "picnicking", "wildlife viewing"]
         }
-      ],
-        
-    "Virginia": [
+      ]
+    },
+     
+    {
+    "name": "Virginia",
+    "parks": [
         {
           "name": "Shenandoah National Park",
           "location": "Virginia",
@@ -1285,9 +1423,12 @@
           "location": "Virginia",
           "activities": ["hiking", "cave tours", "birdwatching", "photography"]
         }
-      ],
-      
-    "Washington": [
+      ]
+    },
+     
+    {
+    "name": "Washington",
+    "parks": [
         {
           "name": "Mount Rainier National Park",
           "location": "Washington",
@@ -1313,9 +1454,12 @@
           "location": "Washington",
           "activities": ["hiking", "skiing", "snowshoeing", "wildlife viewing"]
         }
-      ],
-      
-    "West Virginia": [
+      ]
+    },
+     
+    {
+    "name": "West Virginia",
+    "parks": [
         {
           "name": "Blackwater Falls State Park",
           "location": "West Virginia",
@@ -1341,9 +1485,12 @@
           "location": "West Virginia",
           "activities": ["hiking", "fishing", "boating", "picnicking"]
         }
-      ],
+      ]
+    },
      
-    "Wisconsin": [
+    {
+    "name": "Wisconsin",
+    "parks": [
         {
           "name": "Devil's Lake State Park",
           "location": "Wisconsin",
@@ -1369,9 +1516,12 @@
           "location": "Wisconsin",
           "activities": ["hiking", "waterfalls", "swimming", "camping"]
         }
-      ],
-      
-    "Wyoming": [
+      ]
+    },
+     
+    {
+    "name": "Wyoming",
+    "parks": [
         {
           "name": "Yellowstone National Park",
           "location": "Wyoming",
@@ -1398,5 +1548,6 @@
           "activities": ["hiking", "camping", "fishing", "wildlife viewing"]
         }
       ]
-      
     }
+  ]   
+ }
