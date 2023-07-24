@@ -1,10 +1,9 @@
-
 import React, { useState } from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import Login from "./utils/Login";
 import Profile from "./utils/Profile";
 import Register from "./utils/Register";
-import StateParksDetails from "./utils/StateParksDetails";
+import StateParksDetails from "./utils/StateParksDetails"; // Import StateParksDetails
 import stateParksData from "./data/state-parks.json";
 import SelectParks from "./utils/SelectParks";
 import "./app.css";
@@ -37,10 +36,10 @@ function App() {
       <Route path="/Register" element={<Register />} />
       <Route path="/Profile" element={<Profile />} />
 
-      {/* Pass selectedState and stateParksData as props to StateParksDetails */}
+      {/* Add a route for displaying state park details */}
       <Route
         path="/state/:stateName"
-        element={<StateParksDetails stateData={stateParksData} selectedState={selectedState} />}
+        element={<StateParksDetails stateParksData={stateParksData} selectedState={selectedState} />}
       />
     </Routes>
   );

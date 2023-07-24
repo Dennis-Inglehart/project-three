@@ -1,20 +1,21 @@
 import React from "react";
 
-const StateParksDetails = ({ stateData, selectedState }) => {
-  // Check if stateData is not an array or if selectedState is empty
-  if (!Array.isArray(stateData) || !selectedState) {
+const StateParksDetails = ({ stateParksData, selectedState }) => {
+  // Check if selectedState is empty or undefined
+  if (!selectedState) {
     return <div>No parks data available for this state.</div>;
   }
 
-  const selectedPark = stateData.find((state) => state.location === selectedState);
+  // Find the selected state object from stateParksData
+  const selectedStateObject = stateParksData.states.find((state) => state.name === selectedState);
 
-  // Check if selectedPark is found in the stateData
-  if (!selectedPark) {
+  // Check if selectedStateObject is found
+  if (!selectedStateObject) {
     return <div>No parks data available for this state.</div>;
   }
 
-  const stateName = selectedPark.location;
-  const parks = selectedPark.parks;
+  const stateName = selectedStateObject.name;
+  const parks = selectedStateObject.parks;
 
   return (
     <div>

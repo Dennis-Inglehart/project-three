@@ -35,10 +35,8 @@ export default function SelectParks() {
       </select>
 
       {selectedState && (
-        <StateParksDetails
-          stateData={stateParksData.states.find((state) => state.name === selectedState)}
-        />
-      )}
+  <StateParksDetails stateParksData={stateParksData} selectedState={selectedState} />
+)}
     </div>
   );
 }
