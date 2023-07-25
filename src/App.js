@@ -13,31 +13,6 @@ function App() {
 
   return (
     <Routes>
-      <Route index element={<main>
-      <header>
-        <div id='header'>National Parks</div>
-        <nav >
-        <Link to="/Login" className="Links">Login</Link>
-        <Link to="/Register"className="Links" >Signup</Link>
-        <Link to="/Profile" className="Links">Profile</Link>
-        </nav>
-      </header>
-      <div id="chooseParks">
-      <ChooseParks></ChooseParks>
-      </div>
-    </main>} />
-
-    <Route path="/Login" element={
-      <Login></Login>
-    } />
-
-    <Route path="/Register" element={
-      <Register></Register>
-    } />
-
-    <Route path="/Profile" element={
-    <Profile></Profile>
-    }/>
       <Route
         index
         element={
@@ -65,7 +40,7 @@ function App() {
       <Route
         path="/state/:stateName"
         element={<StateParksDetails stateParksData={stateParksData} selectedState={selectedState} />}
-      />main
+      />
     </Routes>
   );
 }
